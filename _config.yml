@@ -10,7 +10,7 @@ title: Arjit Kapoor
 email: arjitkp@gmail.com
 description: Storytelling/Computational Creativity
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://127.0.0.1:4000/" # the base hostname & protocol for your site
+url: "http://arjitkp.github.io/" # the base hostname & protocol for your site
 twitter_username: arjitkapoor
 github_username:  arjitkp
 paginate: 5

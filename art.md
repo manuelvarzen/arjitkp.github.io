@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Art
+title: 
 permalink: /Art/
 category: "Art"
 tagline: "Letting them run free."

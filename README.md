@@ -6,5 +6,5 @@
 *I am on an exploration to understand*
 
 * Data Science as a medium of story telling
-* Synthetic or Computational Creativity 
+* Synthetic/Computational/Generative Creativity 
 * Creating art out of mathematics and code 

@@ -2,6 +2,6 @@
 layout: archive
 title: Art
 permalink: /Art/
-category: 
+category: "Art"
 tagline: "A step towards understanding the creation and procedural mechanism of a machine"
 ---

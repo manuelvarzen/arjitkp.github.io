@@ -2,5 +2,5 @@
 layout: page
 title: Constructs
 permalink: /Constructs/
-tagline : "SFKDSFK"
+tagline : "An attempt in understanding the generative and procedural creation"
 ---

@@ -2,5 +2,5 @@
 layout: page
 title: Constructs
 permalink: /Constructs/
-tagline : ": An attempt in understanding the generative and procedural creation"
+tagline : ": The gallery of constructs, each constructs tells a different story everytime"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "TEST"
-date:   Time Stamp
+date:   2017-06-26
 categories: ["Constructs"]
 author: "Arjit"
 ---

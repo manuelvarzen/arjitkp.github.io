@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "TEST"
+title:  "TEST WRITING"
 date:   2017-06-26
 categories: ["writing"]
 author: "Arjit"

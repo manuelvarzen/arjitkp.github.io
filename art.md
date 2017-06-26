@@ -3,5 +3,5 @@ layout: archive
 title: 
 permalink: /Art/
 category: "Art"
-tagline: "Letting them run free."
+tagline: "A step towards understanding the creation and procedural mechanism of a machine"
 ---

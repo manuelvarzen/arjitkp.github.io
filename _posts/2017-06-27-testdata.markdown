@@ -2,7 +2,7 @@
 layout: post
 title:  "TEST WRITING"
 date:   2017-06-26
-categories: ["writing"]
+categories: ["data"]
 author: "Arjit"
 ---
 

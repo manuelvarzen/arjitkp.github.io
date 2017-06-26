@@ -2,7 +2,7 @@
 layout: post
 title:  "TEST CONSTRUCT"
 date:   2017-06-26
-categories: ["construct"]
+categories: ["constructs"]
 author: "Arjit"
 ---
 

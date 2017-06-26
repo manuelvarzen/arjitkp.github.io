@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: Science
-permalink: /science/
-tagline: "Humanity is overrated."
-category: "science"
+title: CV
+permalink: /cv/
+tagline: "A curious mind with a muscle to learn"
+category: "CV"
 ---

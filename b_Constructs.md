@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: archive
 title: Constructs
 permalink: /Constructs/
 category: "constructs"

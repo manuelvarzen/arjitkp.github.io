@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Coming soon"
-date:   2017-06-26
+title: "Stepping Up Towards Data Visualization in R"
+author: "Arjit Kapoor"
+date: "August 14, 2017"
 categories: ["data"]
-author: "Arjit"
 ---
 
 

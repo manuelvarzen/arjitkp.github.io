@@ -18,15 +18,3 @@ library(tidyr)
 library(dplyr)
 ```
 
-    ## Warning: package 'dplyr' was built under R version 3.4.1
-
-    ## 
-    ## Attaching package: 'dplyr'
-
-    ## The following objects are masked from 'package:stats':
-    ## 
-    ##     filter, lag
-
-    ## The following objects are masked from 'package:base':
-    ## 
-    ##     intersect, setdiff, setequal, union

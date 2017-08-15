@@ -12,9 +12,7 @@ categories: ["data"]
 R Markdown
 ----------
 
-``` r
-library(XML)
-library(tidyr)
-library(dplyr)
+```{r}
+## insert your brilliant WORKING code here
 ```
 

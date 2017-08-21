@@ -16,8 +16,6 @@
     {% include footer.html %}
 
   </body>
-
-</html>
 {% assign dep_file = page.url | split: '/' | last | prepend : 'htmlwidgets/' %}
 {% assign dep_file_inc = dep_file | prepend : '_includes/' %}
 {% capture hw_used %}{% file_exists {{ dep_file_inc }} %}{% endcapture %}
@@ -25,3 +23,4 @@
 {% if hw_used == "true" %}
 {% include {{dep_file}} %}
 {% endif %}
+</html>

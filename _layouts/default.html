@@ -16,8 +16,5 @@
     {% include footer.html %}
 
   </body>
-<!-- htmlwidgets dependencies --> 
-{% assign dep_file = page.url | split: '/' | last | prepend : 'htmlwidgets/' %}
-{% include {{dep_file}} %}
-
+  
 </html>

@@ -1,0 +1,53 @@
+---
+layout: post
+title: " BOMB"
+author: "Arjit Kapoor"
+date: "August 22, 2017"
+categories: ["data"]
+htmlwidgets: TRUE
+---
+
+```{r,warning=FALSE}
+
+library(XML)
+library(ggplot2)
+library(tidyr)
+library(dplyr)
+library(sp)
+library(geosphere)
+library('maps')
+library('ggthemes')
+library('plotly')
+
+A_loc<-tbl_df(readLines("https://raw.githubusercontent.com/jpatokal/openflights/master/data/airports.dat"))
+New_A_loc<-as.data.frame(sapply(A_loc, function(x) gsub("\"", "", x)))
+New_A_loc<-separate(data = New_A_loc, col = value, into = c("Airport_id", "Name","City","Country","IATA","ICAO","Lat","Long","Alt","Timezone","DST","TZ","Type","Source"), sep = ",")
+New_A_loc$Lat <- as.numeric(New_A_loc$Lat)
+
+New_A_loc$Long <- as.numeric(New_A_loc$Long)
+New_A_loc$Alt<-as.numeric(New_A_loc$Alt)
+New_A_loc$Name<-as.character(New_A_loc$Name)
+
+g <- list(showframe = FALSE,
+      coastlinecolor = toRGB("white"),
+      showland = TRUE,
+      landcolor = toRGB("gray80"),
+      showcountries = TRUE,
+      countrycolor = toRGB("white"),
+      countrywidth = 0.2,
+      projection = list(type = 'Mercator'))
+
+
+plot_geo(New_A_loc, 
+         lat = ~Lat, 
+         lon = ~Long,
+         text = ~City,
+         mode='markers',
+         marker = list(color = toRGB("purple"),
+                       opacity = 0.5,
+                       line = list(color = toRGB("purple"),
+                                   width = 0.5))
+        ) %>%
+  layout(geo = g)
+
+```

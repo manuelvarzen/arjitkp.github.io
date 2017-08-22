@@ -31,6 +31,8 @@ layout: default
     </a>
   {% endif %}
   </footer>
+
+</article>
 {% if page.htmlwidgets %}
 {% for html_dep in site.static_files %}
   {% if html_dep.path contains 'htmlwidgets_deps/' %}
@@ -39,5 +41,3 @@ layout: default
     {% endif %}
   {% endfor %}
 {% endif %}
-</article>
-

@@ -11,6 +11,6 @@ tagline : ": The gallery of constructs, each constructs tells a different story 
 
 
 
-![]({{"/images/constructs/infection.png"|absolute_url}})
+![]({{"/images/constructs/infect.png"|absolute_url}})
 
 > The Infection Construct

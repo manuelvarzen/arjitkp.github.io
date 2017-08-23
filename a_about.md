@@ -22,12 +22,28 @@ permalink: /about/
   <div class="example">
     <span class='manual'>FORMAT</span><BR>
     <pre>---
+```
 
+layout: post | default | page
+title:  String<span class="hint"> Post Title</span>
+date:   Time Stamp
+categories: String | Array of Strings<span class="hint"> Category / Categories </span>
+\---</pre>
+
+```
   </div>
   <div class="example">
 
     <pre>---
+```
 
+layout: post
+title:  "The One with the Blackout"
+date:   2016-03-30 19:45:31 +0530
+categories: ["life", "friends"]
+\---</pre>
+
+```
   </div>
 ```
 
@@ -48,12 +64,28 @@ permalink: /about/
   <div class="example">
     <span class='manual'>FORMAT</span><BR>
     <pre>---
+```
 
+layout: page
+title: String <span class="hint">Title of the webpage</span>
+permalink: / String / <span class="hint">Permalink for the webpage</span>
+tagline: String <span class="hint">Optional Gravity Feature : Tagline for the page</span>
+\---</pre>
+
+```
   </div>
   <div class="example">
 
     <pre>---
+```
 
+layout: page
+title:  "Science"
+permalink:   /science/
+tagline : "Humanity is overrated."
+\---</pre>
+
+```
   </div>
 ```
 
@@ -82,11 +114,30 @@ permalink: /about/
   <div class="example">
     <span class='manual'>FORMAT</span><BR>
 <pre>---
+```
 
+layout: archive<span class="hint"> Archive Page Layout</span>
+title: String <span class="hint">Title of the webpage</span>
+permalink: / String / <span class="hint">Permalink for the webpage</span>
+tagline: String <span class="hint"> Tagline for the page</span>
+category : String <span class="hint"> Name of the category of which the page will show posts.</span>
+\---</pre>
+
+```
   </div>
   <div class="example">
 
+    <pre>---
+```
 
+layout: archive
+title:  "Design"
+permalink : "Design"
+category: "design"
+tagline: "It's all about perception."
+\---</pre>
+
+```
 </div><br>
 ```
 

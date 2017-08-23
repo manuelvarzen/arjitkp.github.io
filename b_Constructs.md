@@ -30,7 +30,3 @@ tagline : ": The gallery of constructs, each constructs tells a different story 
 ![]({{"/images/constructs/infection.png"|absolute_url}})
 
 > The Infection Construct
-
-![]({{"/images/constructs/Moth.png"|absolute_url}})
-
-> The Moth Construct

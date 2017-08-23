@@ -35,41 +35,5 @@ permalink: /about/
 
 <p>  <div class="manual-content">
 
-```
-  - Create a .md file in the root directory.<br>
-  - Name the file. Preferred name will be the name of the category<br>  <code>life.md</code><br>
-  - Write the <a href="jekyll">Front Matter</a> and content in the file.
-  <div class="example">
-    <span class='manual'>FORMAT</span><BR>
-<pre>---
-```
 
-layout: archive<span class="hint"> Archive Page Layout</span>
-title: String <span class="hint">Title of the webpage</span>
-permalink: / String / <span class="hint">Permalink for the webpage</span>
-tagline: String <span class="hint"> Tagline for the page</span>
-category : String <span class="hint"> Name of the category of which the page will show posts.</span>
-\---</pre>
-
-```
-  </div>
-  <div class="example">
-
-    <pre>---
-```
-
-layout: archive
-title:  "Design"
-permalink : "Design"
-category: "design"
-tagline: "It's all about perception."
-\---</pre>
-
-```
-</div><br>
-```
-
-  </div>
-</p>
-</div>
 

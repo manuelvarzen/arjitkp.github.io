@@ -7,7 +7,8 @@ tagline : ": The gallery of constructs, each constructs tells a different story 
 ---
 
 
-# Constructsssssssss
+
 
 
 ![]({{"/images/constructs/lattice.png"|absolute_url}})
+> #Lost City.

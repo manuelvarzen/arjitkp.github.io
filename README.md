@@ -5,6 +5,6 @@
 
 *I am on an exploration to understand*
 
-* Data Science as a medium of story telling
+* Data Science to ask question, to seek answer and to tell a story about.
 * Synthetic/Computational/Generative Creativity 
 * Creating art out of mathematics and code 

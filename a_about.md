@@ -9,18 +9,7 @@ permalink: /about/
 <br>
 <center><p ><strong><span class="manual">Get up and running with</span> Click <a href="http://www.yahoo.com">here</a> to go to yahoo.
  </strong></p></center>
-<br>
-<div class="manual-post">
-  <div class="manual manual-title">
-  <strong>Posting</strong>
-  </div>
-<p>  <div class="manual-content">
 
-
-
-  </div>
-</p>
-</div>
 
 
 

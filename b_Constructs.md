@@ -32,7 +32,7 @@ tagline : ": The gallery of constructs, each constructs tells a different story 
 > The Lost city Construct
 
 
-![]({{"/images/constructs/lost-train.png"|absolute_url}})
+![]({{"/images/constructs/lost_train.png"|absolute_url}})
 
 > The Lost Train Construct
 

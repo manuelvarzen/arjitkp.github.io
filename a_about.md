@@ -20,20 +20,9 @@ permalink: /about/
   </div>
 </p>
 </div>
-<br>
-<div class="manual-post">
-  <div class="manual manual-title">
-  <strong>Create Archives/ Category Pages</strong><br>
-</div><br>
-<div class="archiveIntro">
-  <p>
-    Introducing <strong>Archive Pages</strong>.<br></p>
-  <span class="archive-intro">  You can display a list of all the post corresponding to a particular category on a standalone Page using the <code>'archive'</code> layout.
-</span>
-</div>
-<br>
 
-<p>  <div class="manual-content">
+
+
 
 
 

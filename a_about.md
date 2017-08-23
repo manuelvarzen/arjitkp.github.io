@@ -7,7 +7,7 @@ permalink: /about/
 <h2>About Me</h2>
 <p>Minimal, text based, liberal Jekyll theme<br>for sharing your awesome ideas.</p>
 <br>
-<center><p ><strong><span class="manual">Get up and running with</span> Gravity</strong></p></center>
+<center><p ><strong><span class="manual">Get up and running with</span> [Gravity](www.google.com) </strong></p></center>
 <br>
 <div class="manual-post">
   <div class="manual manual-title">

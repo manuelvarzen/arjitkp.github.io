@@ -4,14 +4,14 @@ title : About
 permalink: /about/
 ---
 
-<h2>ARJIT</h2>
-<p>asdfghjk.</p>
+<h2>Gravity</h2>
+<p>Minimal, text based, liberal Jekyll theme<br>for sharing your awesome ideas.</p>
 <br>
-<center><p ><strong><span class="manual">asdfghjkl</span> Gravity</strong></p></center>
+<center><p ><strong><span class="manual">Get up and running with</span> Gravity</strong></p></center>
 <br>
 <div class="manual-post">
   <div class="manual manual-title">
-  <strong>asdfghjk</strong>
+  <strong>Posting</strong>
   </div>
 <p>  <div class="manual-content">
 
@@ -95,12 +95,12 @@ tagline : "Humanity is overrated."
 <br>
 <div class="manual-post">
   <div class="manual manual-title">
-  <strong>LOLs</strong><br>
+  <strong>Create Archives/ Category Pages</strong><br>
 </div><br>
 <div class="archiveIntro">
   <p>
-    B <strong>IATCH</strong>.<br></p>
-  <span class="archive-intro">  hdxghgfndtjgxtgng the <code>'archive'</code> layout.
+    Introducing <strong>Archive Pages</strong>.<br></p>
+  <span class="archive-intro">  You can display a list of all the post corresponding to a particular category on a standalone Page using the <code>'archive'</code> layout.
 </span>
 </div>
 <br>
